@@ -57,7 +57,7 @@ body {
   display: inline-block;
   float: left;
   height: 64px;
-  background: url("../img/user_icon.png") no-repeat center center;
+  /* background: url("../img/user_icon.png") no-repeat center center; */
 }
 
 .comment-section {
